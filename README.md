@@ -1,7 +1,6 @@
 # Credit Risk Survival Analysis & Predictive Modeling
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](
-credit-risk-app-mhzzflgzyb3pbc9gdka2ze.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](credit-risk-apppuspita.streamlit.app)
 An end-to-end data science project that predicts not just *if* a loan will default, but *when*, using survival analysis. The final model is deployed as an interactive web application with Streamlit for real-time risk assessment.
 
 ![Streamlit App Screenshot](<img width="1407" height="797" alt="Screenshot 2025-08-19 at 11 11 42 PM" src="https://github.com/user-attachments/assets/41fbe15b-669d-471a-95f5-c13ad1359d0e" />
